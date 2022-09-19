@@ -1,7 +1,7 @@
 Hello, I'm Ina F. Pedersen
 
 I'm interested in different areas of coding, such as developing and designing educational games, or games in general. 
-I'm also interested in creating applications.
+I'm also interested in creating applications and system development.
 
 This far I have tried programming in:
 - JavaScript
@@ -14,6 +14,6 @@ This far I have tried programming in:
 - TypeScript
 - .NET
 
-And I'm still learning on all of these programming languages.
+And I'm still a junior in all of these programming languages.
 
 
